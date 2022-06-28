@@ -1,0 +1,41 @@
+.container {
+	padding: 30px;
+    background-color: black;
+    border-radius: 0.5rem;
+    color: white;
+}
+.close_icon_container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    cursor: pointer;
+}
+.labelContainer {
+    display: block;
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+.inputClass {
+    background-color: rgb(24 24 27 / var(--tw-bg-opacity));
+    width: 100%;
+    border-radius: 0.5rem;
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid rgb(168 162 158 / var(--tw-border-opacity));
+}
+.buttonClass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.5rem;
+    background-color: rgb(75 96 176 / var(--tw-bg-opacity));
+    width: 12rem;
+    padding: 0.75rem 1.25rem;
+    font-size: 16px;
+    border-radius: 00.5rem;
+}
+.buttonClass:hover {
+    background-color: rgb(15 23 42 / var(--tw-bg-opacity));
+}

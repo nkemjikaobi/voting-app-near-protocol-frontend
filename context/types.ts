@@ -1,0 +1,14 @@
+export const CONNECT_TO_NEAR = 'CONNECT_TO_NEAR';
+export const LOAD_CONTRACT = 'LOAD_CONTRACT';
+export const GET_BALANCE = 'GET_BALANCE';
+export const CHECK_IF_SIGNED_IN = 'CHECK_IF_SIGNED_IN';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+
+export const GET_USER_ELECTIONS = 'GET_USER_ELECTIONS';
+export const GET_ALL_ELECTIONS = 'GET_ALL_ELECTIONS';
+export const CREATE_ELECTION = 'CREATE_ELECTION';
+export const START_ELECTION = 'START_ELECTION';
+export const END_ELECTION = 'END_ELECTION';
+export const ADD_CONTESTANT = 'ADD_CONTESTANT';
+export const VOTE = 'VOTE';
