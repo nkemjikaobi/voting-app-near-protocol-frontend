@@ -1,14 +1,17 @@
 ### Voting App Near Protocol Frontend 
 
 Live URL => https://voting-app-near-protocol-frontend.vercel.app/
+
+DEMO PRESENTATION => https://www.loom.com/share/2080505659ad49b2aa63c05901563740
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
+npm install && npm run dev
 # or
-yarn dev
+yarn && yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
